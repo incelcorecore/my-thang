@@ -1,0 +1,14 @@
+p {
+    color: blue;
+    font-size: 50px;
+    
+}
+
+#clicks {
+    color: red;
+}
+
+.box {
+    white-space: nowrap;
+    display: flex;
+}
